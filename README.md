@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Teixeira</h1>
 <h3 align="center">A backend developer passionate about programming and information technology!</h3>
 
-- 🌱 I’m currently learning about IT support. **Cousera(Google IT Support Professional Certificate)**
+- 🌱 I’m currently learning about IT support. **Coursera(Google IT Support Professional Certificate)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrunoTSC?tab=repositories](https://github.com/BrunoTSC?tab=repositories)
 
